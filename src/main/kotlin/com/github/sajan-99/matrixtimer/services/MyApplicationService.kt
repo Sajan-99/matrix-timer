@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sajan-99.matrixtimer.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sajan-99.matrixtimer.MyBundle
 
 class MyApplicationService {
 
